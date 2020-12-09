@@ -12,3 +12,5 @@ Param1 -> The lower bound of the CS. (cannot be lower than 0)
 Param2 -> The higher bound of the CS. (cannot be higher than 10)
 
 3 -> Randomizes an offset for the Approach Circle from the circle.
+Param1 -> Horizontal distance, in pixels, from the note, in both directions.
+Param2 -> Vertical distance, in pixels, from the note, in both directions.
