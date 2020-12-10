@@ -19,7 +19,7 @@ Param2 -> Vertical distance, in pixels, from the note, up.
 Param3 -> Horizontal distance, in pixels, from the note, right.  
 Param4 -> Vertical distance, in pixels, from the note, down.  
 
-4 -> Moves the circle from a selectable edge to a specified position.<br/>
+4 -> Moves the circle from a selectable edge to a specified position. (the X and Y values)<br/>
 Param1 -> Which side should the circles come from?<br/>
 1 -> Only from the left<br/>
 2 -> Only from the right<br/>
