@@ -28,4 +28,5 @@ Param1 -> Which side should the circles come from?<br/>
 3 -> Only from above<br/>
 4 -> Only from below<br/>
 
-5 -> 
+5 -> Apply HD mod
+Applies a replica of the HD mod on the circle.
