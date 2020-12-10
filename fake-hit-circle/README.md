@@ -21,7 +21,7 @@ Param4 -> Vertical distance, in pixels, from the note, down.
 
 4 -> Moves the circle from a selectable edge to a specified position.<br/>
 Param1 -> Which side should the circles come from?<br/>
-1 -> Only the left<br/>
-2 -> Only the right<br/>
+1 -> Only from the left<br/>
+2 -> Only from the right<br/>
 3 -> Only from above<br/>
 4 -> Only from below<br/>
