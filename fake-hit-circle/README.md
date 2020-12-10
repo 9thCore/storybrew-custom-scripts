@@ -25,8 +25,3 @@ Param1 -> Which side should the circles come from?<br/>
 2 -> Only the right<br/>
 3 -> Only from above<br/>
 4 -> Only from below<br/>
-Any combination of these numbers can be used, for example:<br/>
-23 -> From both right and above (chosen randomly)<br/>
-14 -> From both left and below (chosen randomly)<br/>
-1234 -> From any side (chosen randomly)<br/>
-The order of each number doesn't matter!<br/>
