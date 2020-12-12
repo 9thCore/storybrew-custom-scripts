@@ -1,8 +1,6 @@
 # Fake Hit Circle
 
-THE FILE WON'T BE RELEASED UNTIL I'M HAPPY WITH IT! (so not yet)
-
-This script is, well, a fake hit circle script!
+This script is, well, a fake hit circle script! (for storybrew, obviously)
 
 Here are all of the special behaviours that have been implemented into the template script file!
 Also, when there's something which randomizes something, don't forget to set the Random Seed.
