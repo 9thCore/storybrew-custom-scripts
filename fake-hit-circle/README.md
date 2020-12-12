@@ -2,7 +2,10 @@
 
 This script is, well, a fake hit circle script! (for storybrew, obviously)
 
-Here are all of the special behaviours that have been implemented into the template script file!
+To install it, put it in the scripts folder in your storybrew folder. You should be able to use the script in any storyboard after that!
+
+This script also has a few special behaviours, just to get your gears movin' when it comes to innovative gameplay/special behaviours if you want to code more yourself.
+Here are all of the special behaviours that have been implemented into the script file!
 Also, when there's something which randomizes something, don't forget to set the Random Seed.
 
 1 -> Randomizes the AR.  
